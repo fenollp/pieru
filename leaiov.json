@@ -1,6 +1,6 @@
 {
     "nodes":[
-        {"name": "Jure Ham", "id": "jureham", "type": "text"},
+        {"name": "Léa Iov", "id": "leaiov", "type": "text"},
         {"name": "Zemanta", "id": "zemanta", "url": "http://www.zemanta.com", "type": "link", "width": 150},
         {"name": "Twitter", "id": "twitter", "url": "https://twitter.com/hamaxx", "type": "link"},
         {"name": "Google+", "id": "googleplus", "url": "https://plus.google.com/+JureHam/", "type": "link"},
