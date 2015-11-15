@@ -1,7 +1,7 @@
 
 
 body {
-    background: #eee;
+    background-color: #F5D0A9;
     margin: 0;
     padding: 0;
 }
@@ -11,14 +11,14 @@ body {
 }
 
 .link {
-    stroke: #666;
+    stroke: #5858FA;
     stroke-opacity: 0.1;
 }
 
 text {
     
     font-family: 'Fugaz One', cursive;
-    font-size: 45px;
+    font-size: 65px;
     font-weight: 700;
     color: #000;
     cursor: default;

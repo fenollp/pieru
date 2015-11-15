@@ -1,11 +1,11 @@
 {
     "nodes":[
         {"name": "Léa Iov", "id": "leaiov", "type": "text"},
-        {"name": "Zemanta", "id": "zemanta", "url": "http://www.zemanta.com", "type": "link", "width": 150},
-        {"name": "Twitter", "id": "twitter", "url": "https://twitter.com/hamaxx", "type": "link"},
-        {"name": "Google+", "id": "googleplus", "url": "https://plus.google.com/+JureHam/", "type": "link"},
-        {"name": "GitHub", "id": "github", "url": "https://github.com/hamaxx", "type": "link"},
-        {"name": "Linkedin", "id": "linkedin", "url": "https://www.linkedin.com/in/hamax", "type": "link"}
+        {"name": "Flickr", "id": "photo", "url": "http://www.flickr.com/theleai", "type": "link", "width": 150},
+        {"name": "Twitter", "id": "poisson", "url": "https://twitter.com/hamaxx", "type": "link"},
+        {"name": "Google+", "id": "work", "url": "https://fr.linkedin.com/in/leaiovene ", "type": "link"},
+        {"name": "GitHub", "id": "twitter", "url": "https://twitter.com/leaiov", "type": "link"},
+        {"name": "Linkedin", "id": "code", "url": "https://github.com/leaiov", "type": "link"}
     ],
     "links":[
         {"source":0,"target":1,"value":2, "strength": 1},
