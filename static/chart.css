@@ -1,7 +1,8 @@
 
 
 body {
-    background-color: #F5D0A9;
+    background-color: #DE7A42;
+    background-image: url(https://images.unsplash.com/photo-1436262513933-a0b06755c784?fit=crop&fm=jpg&h=800&ixjsv=2.0.0&ixlib=rb-0.3.5&q=80&w=1450);
     margin: 0;
     padding: 0;
 }
@@ -25,5 +26,12 @@ text {
 }
 
 a svg {
-    stroke: transparent;
+    stroke: transparent; 
+    display: block;
+    width: 1000px  
+}
+
+a svg:hover {
+    fill: #D4B0AC;
+    filter: hue-rotate(220deg) saturate(5);
 }
