@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="560px"
-	 height="560px" viewBox="0 0 560 560" enable-background="new 0 0 560 560" xml:space="preserve">
-<g id="Calque_1">
-	<path fill="#333333" d="M502.719,305.29c2.208-3.28,2.215-7.56,0-10.845c-0.4-0.594-10.149-14.94-28.07-32.854
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="560px" height="560px" viewBox="0 0 560 560" enable-background="new 0 0 560 560" xml:space="preserve">
+<g id="Calque_1_1_">
+	<path d="M502.719,305.29c2.208-3.28,2.215-7.56,0-10.845c-0.4-0.594-10.149-14.94-28.07-32.854
 		c-20.963-20.968-50.75-44.481-88.058-58.426c-19.284-51.666-88.755-61.912-133.244-48.961
 		c-53.675,15.604-97.839,62.565-98.427,102.971c-7.966,6.081-14.978,11.834-20.865,16.921c-3.131-8.088-8.819-16.521-16.463-24.17
 		l-1.666-1.627c-18.787-17.851-49.356-16.462-50.647-16.392c-4.926,0.258-8.871,4.184-9.147,9.109
@@ -40,8 +40,5 @@
 		c2.086,0,4.053,0.807,5.532,2.286c1.484,1.484,2.298,3.46,2.298,5.565c0,2.106-0.82,4.079-2.291,5.558
 		c-1.478,1.478-3.454,2.292-5.565,2.298c-4.196,0-7.851-3.667-7.851-7.857c0.006-2.098,0.825-4.079,2.304-5.565
 		C402.892,278.595,404.854,277.774,406.965,277.78z"/>
-</g>
-<g id="Calque_2">
-	<circle fill="none" stroke="#333333" stroke-width="11" stroke-miterlimit="10" cx="280" cy="279" r="266"/>
 </g>
 </svg>

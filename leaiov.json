@@ -1,11 +1,11 @@
 {
     "nodes":[
-        {"name": "Léa Iov", "id": "leaiov", "type": "text"},
-        {"name": "Flickr", "id": "photo", "url": "http://www.flickr.com/theleai", "type": "link", "width": 150},
-        {"name": "Twitter", "id": "poisson", "url": "https://twitter.com/hamaxx", "type": "link"},
-        {"name": "Google+", "id": "work", "url": "https://fr.linkedin.com/in/leaiovene ", "type": "link"},
-        {"name": "GitHub", "id": "twitter", "url": "https://twitter.com/leaiov", "type": "link"},
-        {"name": "Linkedin", "id": "code", "url": "https://github.com/leaiov", "type": "link"}
+        {"name": "Léa Iovene", "id": "leaiov", "type": "text"},
+        {"name": "Flickr", "id": "photo", "url": "http://www.flickr.com/theleai", "type": "link"},
+        {"name": "Portfolio", "id": "poisson", "url": "http://slides.com/leaiov/portfolio", "type": "link"},
+        {"name": "Linkedin+", "id": "work", "url": "https://fr.linkedin.com/in/leaiovene ", "type": "link"},
+        {"name": "Twitter", "id": "twitter", "url": "https://twitter.com/leaiov", "type": "link"},
+        {"name": "Github", "id": "code", "url": "https://github.com/leaiov", "type": "link"}
     ],
     "links":[
         {"source":0,"target":1,"value":2, "strength": 1},
