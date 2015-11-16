@@ -27,11 +27,10 @@ text {
 
 a svg {
     stroke: transparent; 
-    display: block;
-    width: 1000px  
-}
+    pointer-events: bounding-box;
+ }
 
 a svg:hover {
-    fill: #D4B0AC;
+    fill: #7E7E7E;
     filter: hue-rotate(220deg) saturate(5);
 }
